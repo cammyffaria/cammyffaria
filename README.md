@@ -12,7 +12,7 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
 
 ##
 
-<img src="https://media.giphy.com/media/O0zVNAjUC0m3jxiflK/giphy.gif" alt="GIF animado" height="100px" />
+<div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/O0zVNAjUC0m3jxiflK" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/O0zVNAjUC0m3jxiflK">via GIPHY</a></p>
 
 
 
