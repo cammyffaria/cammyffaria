@@ -3,6 +3,7 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+Ol%C3%A1%2C+eu+sou+a+Camila+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
+
 Meu nome é Camila, sou estudante de Ciência de Dados na UNIVESP, Aspire Alumini from ALP na Harvard Business School e maratonauta no NASA Space Jampa.
 
 Tenho muito interesse em inteligência artificial e aprendizado de máquina voltados para a astrofísica computacional. No momento estou me desenvolvendo em detecção e exploração de exoplanetas.
