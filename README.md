@@ -12,24 +12,18 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
 
 ##
 
-<h3 align="left">My Stack:</h3>
+<img align="right" alt="" height="190px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndyeTN4d2NlbWVsZWpzNnhudzJqY2Z4eG91bm1idm01eHdma2RyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BztG2ZlPnfbqa0dPiD/giphy.gif">
 
-<div>
-  <!-- Stack Icons -->
-  <div style="display: inline-block; vertical-align: middle;">
-    <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-    <img align="center" src="https://img.shields.io/badge/AstroPy-F57300?style=for-the-badge" />
-    <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" />
-    <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-    <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" />
-    <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-    <img align="center" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  </div>
+<h3 align="left">My Stack:<h3>
+<div style="display: inline-block;">
+  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-right: 10px;"/>
+  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="margin-right: 10px;"/>
+  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin-right: 10px;"/>
+  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="margin-right: 10px;"/>
+  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="margin-right: 10px;"/>
+  <img align="center" height="36" width="46" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin-right: 10px;"/>
+  <img align="center" height="36" width="46" src="https://img.shields.io/badge/AstroPy-F57300?style=for-the-badge" style="margin-right: 10px;"/>
 
-<!-- GIF -->
-  <div vertical-align: top; margin-left: 20px;">
-    <img align="right" height="600" width="250" src="https://media.giphy.com/media/BztG2ZlPnfbqa0dPiD/giphy.gif" alt="GIF animado" />
-  </div>
 </div>
 
 <h3 align="left">Connect with me!</h3>
@@ -40,7 +34,7 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
   <a href="https://sahturnxx.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
   </a>
-  <a href="https://www.linkedin.com/in/antonia-camila-faria-soares-409401322/" target="_blank" hidden>
+  <a href="https://www.linkedin.com/in/antonia-camila-faria-soares-409401322/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
