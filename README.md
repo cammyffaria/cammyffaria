@@ -12,8 +12,13 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
 
 ##
 
-<img align="left" height="190px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZtNTdhajdtenl6MDg1bWpnbTkwbTRveGhjN3JmZDZ2NzY5czk3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O0zVNAjUC0m3jxiflK/giphy.gif">
-
+<div style="display: flex; align-items: center;">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZtNTdhajdtenl6MDg1bWpnbTkwbTRveGhjN3JmZDZ2NzY5czk3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O0zVNAjUC0m3jxiflK/giphy.gif" 
+       alt="GIF animado" 
+       height="100px" 
+       style="margin-right: 10px;">
+  <h3 style="margin: 0;">My Stack:</h3>
+</div>
 
 
 <h3 align="left">My Stack:<h3>
