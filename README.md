@@ -14,8 +14,6 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
 
 <h3 align="left">My Stack:</h3>
 
-<h3 align="left">My Stack:</h3>
-
 <div>
   <!-- Stack Icons -->
   <div style="display: inline-block; vertical-align: middle;">
@@ -28,14 +26,6 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
     <img align="center" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
   </div>
 
-  <!-- GIF -->
-  <div style="display: inline-block; vertical-align: middle; margin-left: 20px;">
-    <img align="center" height="150" src="https://media.giphy.com/media/BztG2ZlPnfbqa0dPiD/giphy.gif" alt="GIF animado" />
-  </div>
-</div>
-
-
-
 <h3 align="left">Connect with me!</h3>
 <div>
   <a href="mailto:camila.estagio.ai@proton.me" target="_blank">
@@ -47,6 +37,12 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
   <a href="https://www.linkedin.com/in/antonia-camila-faria-soares-409401322/" target="_blank" hidden>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</div>
+
+  <!-- GIF -->
+  <div style="display: inline-block; vertical-align: middle; margin-left: 20px;">
+    <img align="center" height="150" src="https://media.giphy.com/media/BztG2ZlPnfbqa0dPiD/giphy.gif" alt="GIF animado" />
+  </div>
 </div>
 
  ##
