@@ -12,8 +12,7 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
 
 ##
 
-<img align="right" alt="Animação divertida" height="190px"
-     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZtNTdhajdtenl6MDg1bWpnbTkwbTRveGhjN3JmZDZ2NzY5czk3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O0zVNAjUC0m3jxiflK/giphy.gif">
+<img align="left" height="190px" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHZtNTdhajdtenl6MDg1bWpnbTkwbTRveGhjN3JmZDZ2NzY5czk3eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/O0zVNAjUC0m3jxiflK/giphy.gif">
 
 
 
