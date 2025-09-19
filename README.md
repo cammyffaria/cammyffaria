@@ -4,7 +4,11 @@
   </a>
 </div>
 
-Sou estudante da primeira turma do 2° semestre de Desenvolvimento de Software Multiplataforma na Faculdade de Tecnologia de Franco da Rocha. Sou fã de entretenimento, carros e IA preditiva, e tenho me imerso cada vez mais nesses campos de interesse. Atualmente, estou aprendendo PHP e Flutter de forma autodidata e estou em busca de estágio que possa ser conciliado com minhas aulas, que terminam às 13h. 
+Meu nome é Camila, sou estudante de Ciência de Dados na UNIVESP, Aspire Alumini from ALP na Harvard Business School e maratonauta no NASA Space Jampa.
+
+Tenho muito interesse em inteligência artificial e aprendizado de máquina voltados para a astrofísica computacional. No momento estou me desenvolvendo em detecção e exploração de exoplanetas
+
+Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insights, que você pode acompanhar de forma mais direta no meu Hashnode – lá eu conto para vocês toda minha trajetória acadêmica e de desenvolvimento profissional; e o que tem dado certo e errado pelo caminho.
 
 ##
 
