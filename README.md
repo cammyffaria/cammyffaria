@@ -21,8 +21,8 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin-right: 10px;"/>
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="margin-right: 10px;"/>
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="margin-right: 10px;"/>
-  <img align="center" height="36" width="46" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin-right: 10px;"/>
-  <img align="center" height="36" width="46" src="https://img.shields.io/badge/AstroPy-F57300?style=for-the-badge" style="margin-right: 10px;"/>
+  <img align="center" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin-right: 10px;"/>
+  <img align="center" src="https://img.shields.io/badge/AstroPy-F57300?style=for-the-badge" style="margin-right: 10px;"/>
 
 </div>
 
