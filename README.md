@@ -12,17 +12,17 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
 
 ##
 
-<img align="right" alt="" height="190px" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3NsMXhoaTNtd3p5dWNscjBhbnZpOTJjdXI2emp5bmxuZm5wYmF0NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RbDKaczqWovIugyJmW/giphy.gif">
+<img align="right" alt="" height="190px" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYW1jMWZjaW93bHI3dG53M3I3bHNscHl6N2g1eG8zZzE2bmY3bWNkdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/O0zVNAjUC0m3jxiflK/giphy.gif">
 
 <h3 align="left">My Stack:<h3>
 <div style="display: inline-block;">
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-right: 10px;"/>
+  <img align="center" src="https://img.shields.io/badge/AstroPy-F57300?style=for-the-badge" style="margin-right: 10px;"/>
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="margin-right: 10px;"/>
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin-right: 10px;"/>
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="margin-right: 10px;"/>
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="margin-right: 10px;"/>
   <img align="center" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin-right: 10px;"/>
-  <img align="center" src="https://img.shields.io/badge/AstroPy-F57300?style=for-the-badge" style="margin-right: 10px;"/>
 
 </div>
 
@@ -34,7 +34,7 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
   <a href="https://sahturnxx.hashnode.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
   </a>
-  <a href="https://www.linkedin.com/in/antonia-camila-faria-soares-409401322/" target="_blank">
+  <a href="https://www.linkedin.com/in/antonia-camila-faria-soares-409401322/" target="_blank" hidden>
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
