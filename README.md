@@ -23,10 +23,10 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="margin-right: 10px;"/>
 
 <!-- Astropy -->
-  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/npm/@iconify-icons/devicon/astro-original.svg" style="margin-right: 10px;"/>
+  <img align="center" height="36" width="46" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnumfocus.org%2Ftag%2Fastropy&psig=AOvVaw1SktIVYC_0vSPLXVK4m9q-&ust=1758338007956000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJDKvtbt448DFQAAAAAdAAAAABAE" style="margin-right: 10px;"/>
 
 <!-- Power BI -->
-  <img align="center" height="36" width="46" src="https://example.com/path/to/powerbi-logo.svg" style="margin-right: 10px;"/>
+  <img align="center" height="36" width="46" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngegg.com%2Fpt%2Fsearch%3Fq%3Dpower%2BBi%2BLogo&psig=AOvVaw16jnClsgqnKHo-2FGxli9O&ust=1758338051114000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPD10fHt448DFQAAAAAdAAAAABAE" style="margin-right: 10px;"/>
 
 
 </div>
