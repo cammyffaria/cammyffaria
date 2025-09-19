@@ -16,18 +16,28 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
 
 <h3 align="left">My Stack:<h3>
 <div style="display: inline-block;">
-  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" style="margin-right: 10px;"/>
-  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" style="margin-right: 10px;"/>
-  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" style="margin-right: 10px;"/>
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-right: 10px;"/>
-  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" style="margin-right: 10px;"/>
-  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" />
+  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="margin-right: 10px;"/>
+  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin-right: 10px;"/>
+  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="margin-right: 10px;"/>
+  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="margin-right: 10px;"/>
+
+<!-- Astropy -->
+  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/npm/@iconify-icons/devicon/astro-original.svg" style="margin-right: 10px;"/>
+
+<!-- Power BI -->
+  <img align="center" height="36" width="46" src="https://example.com/path/to/powerbi-logo.svg" style="margin-right: 10px;"/>
+
+
 </div>
 
 <h3 align="left">Connect with me!</h3>
 <div>
   <a href="mailto:camila.estagio.ai@proton.me" target="_blank">
     <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="ProtonMail">
+  </a>
+  <a href="https://sahturnxx.hashnode.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode">
   </a>
   <a href="https://www.linkedin.com/in/antonia-camila-faria-soares-409401322/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
