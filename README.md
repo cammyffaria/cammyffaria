@@ -28,7 +28,7 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
 
 <!-- GIF -->
   <div style="display: inline-block; vertical-align: top; margin-left: 20px;">
-    <img align="right" height="150" src="https://media.giphy.com/media/BztG2ZlPnfbqa0dPiD/giphy.gif" alt="GIF animado" />
+    <img align="right" height="600" width="250" src="https://media.giphy.com/media/BztG2ZlPnfbqa0dPiD/giphy.gif" alt="GIF animado" />
   </div>
 </div>
 
