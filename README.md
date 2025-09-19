@@ -17,12 +17,12 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
 <h3 align="left">My Stack:<h3>
 <div style="display: inline-block;">
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-right: 10px;"/>
-   <img align="center" height="46" width="56" src="https://img.shields.io/badge/AstroPy-F57300?style=for-the-badge" style="margin-right: 10px;"/>
+   <img align="center" height="56" width="66" src="https://img.shields.io/badge/AstroPy-F57300?style=for-the-badge" style="margin-right: 10px;"/>
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="margin-right: 10px;"/>
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin-right: 10px;"/>
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="margin-right: 10px;"/>
   <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="margin-right: 10px;"/>
-  <img align="center" height="46" width="56" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin-right: 10px;"/>
+  <img align="center" height="56" width="72" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin-right: 10px;"/>
 
 
 </div>
