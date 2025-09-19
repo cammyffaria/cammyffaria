@@ -12,19 +12,27 @@ Esta conta é totalmente dedicada a mostrar os códigos dos meus projetos e insi
 
 ##
 
-<img align="center"  height="620" width="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbndyeTN4d2NlbWVsZWpzNnhudzJqY2Z4eG91bm1idm01eHdma2RyaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BztG2ZlPnfbqa0dPiD/giphy.gif" style="margin-right: 10px;"/>
+<h3 align="left">My Stack:</h3>
 
-<h3 align="left">My Stack:<h3>
-<div style="display: inline-block;">
-  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-right: 10px;"/>
-  <img align="center" src="https://img.shields.io/badge/AstroPy-F57300?style=for-the-badge" style="margin-right: 10px;"/>
-  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="margin-right: 10px;"/>
-  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin-right: 10px;"/>
-  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="margin-right: 10px;"/>
-  <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="margin-right: 10px;"/>
-  <img align="center" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin-right: 10px;"/>
+<table>
+  <tr>
+    <td>
+      <div>
+        <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" style="margin-right: 10px;"/>
+        <img align="center" src="https://img.shields.io/badge/AstroPy-F57300?style=for-the-badge" style="margin-right: 10px;"/>
+        <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="margin-right: 10px;"/>
+        <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" style="margin-right: 10px;"/>
+        <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" style="margin-right: 10px;"/>
+        <img align="center" height="36" width="46" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" style="margin-right: 10px;"/>
+        <img align="center" src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" style="margin-right: 10px;"/>
+      </div>
+    </td>
+    <td>
+      <img align="right" height="300" width="200" src="https://media.giphy.com/media/BztG2ZlPnfbqa0dPiD/giphy.gif" alt="GIF animado" />
+    </td>
+  </tr>
+</table>
 
-</div>
 
 <h3 align="left">Connect with me!</h3>
 <div>
