@@ -4,7 +4,7 @@
   </a>
 </div>
 
-Meu nome é Camila, sou estudante de Ciência de Dados na UNIVESP, Aspire Alumini from ALP na Harvard Business School e maratonauta no NASA Space Jampa.
+Sou estudante de Ciência de Dados na UNIVESP, Aspire Alumini from ALP na Harvard Business School e maratonauta no NASA Space Jampa.
 
 Tenho muito interesse em inteligência artificial e aprendizado de máquina voltados para a astrofísica computacional. No momento estou me desenvolvendo em detecção e exploração de exoplanetas.
 
