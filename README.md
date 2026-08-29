@@ -4,9 +4,9 @@
   </a>
 </div>
 
-Sou estudante de Ciência de Dados na UNIVESP, Aspire Alumni da Harvard Business School, maratonauta no NASA Space Apps e, atualmente, estagiária no Wellhub.
+Sou estudante de Ciência de Dados na UNIVESP, Aspire Alumni da Harvard Business School e maratonauta no NASA Space Apps.
 
-Tenho interesse em Inteligência Artificial, Ciência de Dados e Inteligência Estratégica de Marca. Este GitHub é um espaço para compartilhar meus projetos, experimentos e aprendizados, explorando como dados e tecnologia podem transformar ideias em soluções práticas, mais simples, estratégicas e colaborativas para o dia a dia.
+Tenho muito interesse e facilidade com IA e estratégia. Esse é um espaço para compartilhar meus projetos, experimentos e aprendizados, explorando como dados e tecnologia podem transformar ideias em soluções práticas, mais simples, estratégicas e colaborativas para o dia a dia.
 
 ##
 
